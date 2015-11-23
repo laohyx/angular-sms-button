@@ -1,0 +1,23 @@
+{
+  "name": "angular-sms-button",
+  "authors": [
+    "laohyx <laohyx@163.com>"
+  ],
+  "description": "An angular directive automatically disables a button and counts down. Used for buttons sending SMS codes.",
+  "main": "angular-sms-button.js",
+  "moduleType": [],
+  "keywords": [
+    "angularjs",
+    "sms",
+    "button"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/laohyx/angular-sms-button",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
