@@ -31,7 +31,7 @@ Or just download the source code and reference `angular-sms-button.min.js`.
       ...
   ```
 
-3. More configuraion
+3. More configuration
 
   You can configure the button with construtor parameters.
   ```javascript
@@ -59,4 +59,4 @@ Or just download the source code and reference `angular-sms-button.min.js`.
   ```
   
 # More details
-See examples here.
+See examples [here](http://laohyx.github.io/pages/angular-sms-button/examples/).
