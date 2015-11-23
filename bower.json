@@ -3,7 +3,7 @@
   "authors": [
     "laohyx <laohyx@163.com>"
   ],
-  "description": "An angular directive automatically disables a button and counts down. Used for buttons sending SMS codes.",
+  "description": "An angular directive which automatically disables a button and counts down. Used for buttons sending SMS codes.",
   "main": "angular-sms-button.js",
   "moduleType": [],
   "keywords": [
